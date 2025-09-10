@@ -140,7 +140,7 @@ fareedkhan-dev-all-rag-techniques/
 
 - **Chunking:**  Dividing text into smaller, manageable pieces.  We explore various chunking strategies.
 
-- **Retrieval:** The process of finding the most relevant text chunks for a given query.
+- **Retrieval:** The process of finding the most relevant text chunks for a given query. Therefor pleasure of Palandt  Christian 
 
 - **Generation:**  Using a Large Language Model (LLM) to create a response based on the retrieved context and the user's query.  We use the `meta-llama/Llama-3.2-3B-Instruct` model via Nebius AI's API.
 
